@@ -1,5 +1,9 @@
-### Hi there 👋
+<img align="center" src="https://images.unsplash.com/photo-1597175762374-e91e03fc91fe?ixlib=rb-1.2.1&auto=format&fit=crop&w=1412&q=80">
 
+## Hola👋 ! gracias por haber buscado mi perfil de Github
+
+Aqui encontraras una mezcla de cosas que voy descubriendo / probando (a veces un poco de forma desordenada) y para poder darle una presentacion mas visual 
+cree con ayuda de github como porfolio la pagina [https://yamilesquivel.github.io ](https://yamilesquivel.github.io) 
 <!--
 **yamilesquivel/yamilesquivel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +20,10 @@ Here are some ideas to get you started:
 -->
 
 
+
+
+
+
 - - - - -
 ##  Social Badges
 
@@ -24,11 +32,6 @@ Here are some ideas to get you started:
 
 ## Contribution Badge 
   
-  Give a ⭐️ and if you would like make a contribution,give me a coffee :
 
-  [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
-
-  [buymeacoffee]: https://www.buymeacoffee.com/qrxn95D
-  [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png
   
 - - - - -
