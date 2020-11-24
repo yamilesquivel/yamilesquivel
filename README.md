@@ -30,8 +30,7 @@ Here are some ideas to get you started:
   ![GitHub followers](https://img.shields.io/github/followers/yamilesquivel?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/yamilesquiveltw.svg?style=social&label=Follow)](https://twitter.com/yamilesquiveltw)
 
-## Contribution Badge 
-  
+
 
   
 - - - - -
