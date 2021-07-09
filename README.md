@@ -1,6 +1,10 @@
-<img align="center"  src="https://images.unsplash.com/photo-1597175762374-e91e03fc91fe?ixlib=rb-1.2.1&auto=format&fit=crop&w=1412&q=80">
+# Yamil Esquivel - @yamilesquiveltw on twitter 
+
+<img align="center" src="https://images.unsplash.com/photo-1530494362568-5f68c6b8febf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80">
 
 
+
+### Things about me
 
 <!--
 - 🔭 I’m currently working on ... -->
@@ -12,15 +16,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### Ways to get in touch
 
 
 
 
-
-
-- - - - -
-
-
-
-  
-- - - - -
