@@ -2,7 +2,7 @@
 **Software Developer transitioning to Cybersecurity | Focused on Secure Coding, Automation, and Threat Analysis**
 
 ## 🛡️ About Me
-I am a Software Developer with a solid background in Java and Spring Boot, currently pivoting my career toward **Cybersecurity**. My goal is to leverage my programming expertise to build security tools, automate analysis tasks, and advocate for "Secure by Design" principles in the Software Development Life Cycle (SDLC).
+I am currently pivoting my career toward **Cybersecurity**. My goal is to leverage my programming expertise to build security tools, automate analysis tasks, and advocate for "Secure by Design" principles in the Software Development Life Cycle (SDLC).
 
 - 🔭 **Current Project**: Developing a cash reserve tracking application, actively implementing security best practices in database management and authentication.
 - 🌱 **Learning Focus**: Python for security scripting, networking fundamentals (TCP/IP), and hands-on Linux labs.
